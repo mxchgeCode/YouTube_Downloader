@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 # ========== НАСТРОЙКИ ==========
-BASE_CHANNEL_URL = "https://www.youtube.com/@DariaEsaulova/shorts"  # Замените на нужный канал
+BASE_CHANNEL_URL = "https://youtu.be/"  # Замените на нужный канал
 BASE_OUTPUT_DIR = "backup_channel"  # Базовое имя папки
 FFMPEG_PATH = r"C:\ffmpeg\bin\ffmpeg.exe"  # Ваш путь к ffmpeg
 
